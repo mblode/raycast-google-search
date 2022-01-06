@@ -1,0 +1,1 @@
+# Google Autosuggestions for Raycast
