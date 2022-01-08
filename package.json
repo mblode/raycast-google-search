@@ -1,7 +1,7 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
-  "name": "google-suggestions",
-  "title": "Google Suggestions",
+  "name": "google-search",
+  "title": "Google Search",
   "description": "Google search with autosuggestions",
   "icon": "command-icon.png",
   "author": "mblode",
