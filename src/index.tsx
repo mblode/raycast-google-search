@@ -1,5 +1,4 @@
 import { ActionPanel, closeMainWindow, CopyToClipboardAction, Icon, List } from "@raycast/api";
-// import { SearchListItem } from "./components/SearchListItem";
 import { getIcon } from "./utils/resultUtils";
 import { useSearch } from "./utils/useSearch";
 import open from "open";
