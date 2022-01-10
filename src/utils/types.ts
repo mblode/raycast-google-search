@@ -7,4 +7,4 @@ export interface SearchResult {
   isHistory?: boolean;
 }
 
-export const HISTORY_KEY = "history"
+export const HISTORY_KEY = "history";
