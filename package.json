@@ -10,8 +10,15 @@
     {
       "name": "index",
       "title": "Search Google or type a URL",
+      "subtitle": "Google",
       "description": "Google search with autosuggestions",
-      "mode": "view"
+      "mode": "view",
+      "keywords": [
+        "google",
+        "search",
+        "suggestions",
+        "autocomplete"
+      ]
     }
   ],
   "dependencies": {
